@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SandPuzzle - Terms of Use</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #0341AE;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #72CB3B;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        .contact-info {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .last-updated {
+            text-align: center;
+            color: #666;
+            font-style: italic;
+            margin-top: 30px;
+        }
+        .warning {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SandPuzzle Terms of Use</h1>
+        
+        <div class="contact-info">
+            <strong>Developer Contact:</strong><br>
+            Email: garyxuan@163.com<br>
+            App Name: SandPuzzle<br>
+            Version: 1.0.0
+        </div>
+
+        <h2>1. Acceptance of Terms</h2>
+        <p>By downloading, installing, or using the SandPuzzle app, you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use this app.</p>
+
+        <h2>2. App Description</h2>
+        <p>SandPuzzle is a sandbox puzzle game where players place different shaped colored blocks in a sandbox to score points by eliminating blocks of the same color.</p>
+
+        <h2>3. User Responsibilities</h2>
+        <p>When using this app, you agree to:</p>
+        <ul>
+            <li>Comply with all applicable laws and regulations</li>
+            <li>Not engage in any behavior that may damage the app or affect other users</li>
+            <li>Not attempt to hack, reverse engineer, or modify the app</li>
+            <li>Not use the app for any illegal purposes</li>
+        </ul>
+
+        <h2>4. Intellectual Property</h2>
+        <p>SandPuzzle and all its content, features, and technology are protected by copyright, trademark, and other intellectual property laws. You may not copy, modify, distribute, or create derivative works.</p>
+
+        <h2>5. In-App Purchases and Advertising</h2>
+        <p>This app may include:</p>
+        <ul>
+            <li>In-app purchase functionality</li>
+            <li>Third-party advertisements</li>
+            <li>Rewarded video advertisements</li>
+        </ul>
+        <p>All purchases are final sales and non-refundable, unless required by law.</p>
+
+        <h2>6. User-Generated Content</h2>
+        <p>If you submit any content through the app (such as feedback, comments, etc.), you grant us the right to use, modify, and distribute such content.</p>
+
+        <h2>7. Service Availability</h2>
+        <p>We strive to maintain continuous service availability but do not guarantee uninterrupted service. We may modify or terminate the service at any time.</p>
+
+        <h2>8. Disclaimer</h2>
+        <div class="warning">
+            <strong>Important Notice:</strong> This app is provided "as is" without any express or implied warranties. We do not guarantee the accuracy, reliability, or suitability of the app.
+        </div>
+
+        <h2>9. Limitation of Liability</h2>
+        <p>To the maximum extent permitted by law, we shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of this app.</p>
+
+        <h2>10. Age Restrictions</h2>
+        <p>This app is suitable for users of all ages. Children under 13 should use the app under parental or guardian supervision.</p>
+
+        <h2>11. Third-Party Services</h2>
+        <p>This app may include third-party services (such as advertising networks, analytics tools, etc.). These third-party services have their own terms and privacy policies.</p>
+
+        <h2>12. Terms Modification</h2>
+        <p>We reserve the right to modify these terms at any time. Significant changes will be notified through in-app notifications. Continued use of the app constitutes acceptance of the modified terms.</p>
+
+        <h2>13. Termination</h2>
+        <p>We may terminate or suspend your right to use the app at any time without prior notice.</p>
+
+        <h2>14. Governing Law</h2>
+        <p>These terms are governed by the laws of the People's Republic of China. Any disputes shall be resolved through friendly negotiation, and if negotiation fails, shall be submitted to the competent people's court for resolution.</p>
+
+        <h2>15. Contact Us</h2>
+        <p>If you have any questions about these Terms of Use, please contact us at:</p>
+        <p>Email: garyxuan@163.com</p>
+
+        <div class="last-updated">
+            Last Updated: December 2024
+        </div>
+    </div>
+</body>
+</html>
